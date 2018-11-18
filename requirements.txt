@@ -1,0 +1,7 @@
+scrapy
+matplotlib
+sta
+wordcloud
+pandas
+PIL
+os
